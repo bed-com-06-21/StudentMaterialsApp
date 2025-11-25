@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554109969938",
+    "project_id": "studentmaterialsapp",
+    "storage_bucket": "studentmaterialsapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554109969938:android:fef95eb7af30e64db21acb",
+        "android_client_info": {
+          "package_name": "com.example.studentmaterialsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JxODLnCFxQwTzwkI6K6yQg21Ips7i20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
